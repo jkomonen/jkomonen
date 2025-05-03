@@ -1,5 +1,5 @@
 <h1 align="center">Hello world <img src="img/hi.gif" width="30px" alt="waving emoji">, I'm Josh!</h1>
-<h3 align="center">I'm a software engineer</h3>
+<!-- <h3 align="center">I'm a software engineer</h3> -->
 <img align="right" <img src="img/pokemon.gif" alt="Pokemon" style="float: right; width: 450px">
 
 
