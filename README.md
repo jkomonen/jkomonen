@@ -10,9 +10,7 @@
 
 - 💻 7x SWE Intern and 7x Teaching Assistant
 
-- 🏆 Fun fact: I won top male athlete of the year in school
-
-- 📫 How to reach me: **jkomonen@uoguelph.ca**
+- 📫 How to reach me: **joshkomonen@gmail.com**
 
 
 
