@@ -1,15 +1,18 @@
-<h1 align="center">
-  Hello world <img src="https://raw.githubusercontent.com/jkomonen/jkomonen/main/img/hi.gif" width="30" alt="waving emoji">, I'm Josh!
-</h1>
+<h1 align="center">Hello world <img src="img/hi.gif" width="30px" alt="waving emoji">, I'm Josh!</h1>
+<!-- <h3 align="center">I'm a software engineer</h3> -->
+<img align="right" <img src="img/pokemon.gif" alt="Pokemon" style="float: right; width: 450px">
 
-<img align="right" src="https://raw.githubusercontent.com/jkomonen/jkomonen/main/img/pokemon.gif" alt="Pokemon" width="450">
 
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=joshuakomonen&label=Profile%20views&color=0e75b6&style=flat" alt="joshuakomonen" /> 
-</p>
 
-- 💻 7x SWE Intern and 7x Teaching Assistant
-- 📫 How to reach me: **joshkomonen@gmail.com**
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=joshuakomonen&label=Profile%20views&color=0e75b6&style=flat" alt="joshuakomonen" /> </p>
+
+
+
+- :computer: 7x SWE Intern and 7x Teaching Assistant
+
+- :mailbox: How to reach me: **joshkomonen@gmail.com**
+
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
@@ -18,4 +21,6 @@
   </a>
 </p>
 
-<img src="https://raw.githubusercontent.com/jkomonen/jkomonen/main/img/line.gif" alt="line" width="100%">
+
+
+<img src="img/line.gif" alt="line" style="width: 100%;">
